@@ -23,7 +23,7 @@ As the directions were faily open-ended on some parts, I made the following assu
 ```
 
 ## Error Handling
-While in a large project, it may be beneficial to use custom error types, I found the build in crate and std error types sufficient for my use. Possible reasons for errors include:
+While in a large project, it may be beneficial to use custom error types, I found the built in crate and std error types sufficient for my use. Possible reasons for errors include:
 ```
 - Passing in an unvalid input file
 - Input file exists in wrong directory
